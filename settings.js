@@ -111,7 +111,7 @@ global.mess = {
     owner: '*Maaf kak fitur ini khusus owner saya kak*',
     group: '*Maaf kak fitur ini hanya boleh di dalam grup*',
     private: '*Maaf kak fitur ini khusus di private*',
-    bot: '*'Khusus yang jadi bot*,
+    bot: '*Khusus yang jadi bot*,
     wait: '*Dalam proses kak...*',
     linkm: '*Haa link nya mana?*',
     error: '*Error!!*',
